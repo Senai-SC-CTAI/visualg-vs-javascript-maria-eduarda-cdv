@@ -1,0 +1,26 @@
+body{
+    background-image: linear-gradient(rgb(255, 247, 198), rgb(250, 224, 137));
+    height: 100vh;
+    color: #455f30;
+   
+    }
+    a:visited{
+        color: white;
+   
+        text-decoration: rgb(0, 0, 0);
+   
+    }
+    a{
+        color: white;
+       
+    }
+    #decoração{
+       margin-left: 300px;
+    }  
+h1{
+    
+    color: rgb(202, 174, 14);
+}  
+p{
+    color: black;
+}  
